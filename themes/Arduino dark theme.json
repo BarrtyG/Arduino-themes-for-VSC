@@ -2065,7 +2065,7 @@
     "peekViewEditor.matchHighlightBackground": "#736503",
     "peekViewEditor.matchHighlightBorder": "#998603",
     "peekViewResult.background": "#333333",
-    "peekViewResult.fileForeground": "#1e1e1e",
+    "peekViewResult.fileForeground": "#6f6f6f",
     "peekViewResult.lineForeground": "#646465",
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
     "peekViewResult.selectionBackground": "#3399ff33",
